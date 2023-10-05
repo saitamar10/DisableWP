@@ -2,7 +2,7 @@
 
 English / [Türkçe](./README_TR.md)
 
-![](https://cdn.jsdelivr.net/gh/hekailiu-2512/Disable-updates/Disable-updates-2.png)
+![]([https://cdn.jsdelivr.net/gh/hekailiu-2512/Disable-updates/Disable-updates-2.png](https://github.com/saitamar10/DisableWP/blob/main/Disable-updates-1.png?raw=true))
 
 # Prohibit background updates
 
@@ -40,7 +40,7 @@ Plug-in updates are prohibited, Prohibition of theme updates,Prohibit core updat
 * In the left navigation bar of the WordPress background, the `Site Health` under the navigation bar `Tools`, click to enter the page to see the effect.
 
 <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/hekailiu-2512/Disable-updates/Disable-updates-2.png" alt="Prohibit background updates" />
+    <img src="(https://github.com/saitamar10/DisableWP/blob/main/Disable-updates-2.png?raw=true)" alt="Prohibit background updates" />
 </p>
 
 ---
@@ -48,7 +48,7 @@ Plug-in updates are prohibited, Prohibition of theme updates,Prohibit core updat
 <h1 align="center">Disable background update</h1>
 <p align="center">
 
-! [](https://cdn.jsdelivr.net/gh/hekailiu-2512/Disable-updates/Disable-updates-2.png)
+! [](https://github.com/saitamar10/DisableWP/blob/main/Disable-updates-2.png?raw=true)
 
 # Disable Background Updates
 
@@ -68,7 +68,7 @@ WordPress plugin for disabling plugin updates, disabling theme updates, disablin
   
  Download the source code from GitHub, upload and install it via the WordPress backend, or directly upload the source code to the WordPress plugin directory `wp-content/plugins` and enable it in the backend.
 
-GitHub download: [https://github.com/hekailiu-2512/Disable-updates/releases/tag/V1.0](https://github.com/hekailiu-2512/Disable-updates/ releases/tag/V1.0) 
+GitHub download: (https://github.com/SaitamaR10/DisableWP/ releases/tag/V1.0) 
 
 ## Modify the configuration
     
@@ -86,5 +86,5 @@ Disable Plugin Updates, Disable Theme Updates, Disable Core Updates, Hide Update
 * Under `Site Health` in WordPress admin left navigation bar `Tools`, click to enter the page to see the effect.
 
 <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/hekailiu-2512/Disable-updates/Disable-updates-2.png" alt="Disable background updates" />
+    <img src="https://cdn.jsdelivr.net/gh/hekailiu-2512/Disable-updates/Disable-updates-2.jpg" alt="Disable background updates" />
 </p>
