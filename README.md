@@ -2,7 +2,7 @@
 
 English / [Türkçe](./README_TR.md)
 
-![]([https://cdn.jsdelivr.net/gh/hekailiu-2512/Disable-updates/Disable-updates-2.png](https://github.com/saitamar10/DisableWP/blob/main/Disable-updates-1.png?raw=true))
+![]([https://github.com/saitamar10/DisableWP/blob/main/Disable-updates-1.png])
 
 # Prohibit background updates
 
@@ -33,7 +33,7 @@ GitHub download address:
 
 Plug-in updates are prohibited, Prohibition of theme updates,Prohibit core updates,Hide update notifications,prohibited administrator notifications.
 
-![](https://cdn.jsdelivr.net/gh/hekailiu-2512/Disable-updates/Disable-updates-1.jpg)
+![](https://github.com/saitamar10/DisableWP/blob/main/Disable-updates-1.png)
 
 ## Effect preview
 
@@ -48,7 +48,7 @@ Plug-in updates are prohibited, Prohibition of theme updates,Prohibit core updat
 <h1 align="center">Disable background update</h1>
 <p align="center">
 
-! [](https://github.com/saitamar10/DisableWP/blob/main/Disable-updates-2.png?raw=true)
+! [](https://github.com/saitamar10/DisableWP/blob/main/Disable-updates-2.png)
 
 # Disable Background Updates
 
@@ -79,7 +79,7 @@ GitHub download: (https://github.com/SaitamaR10/DisableWP/ releases/tag/V1.0)
 
 Disable Plugin Updates, Disable Theme Updates, Disable Core Updates, Hide Update Notifications, Disable Administrator Notifications.
 
-! [](https://cdn.jsdelivr.net/gh/hekailiu-2512/Disable-updates/Disable-updates-1.jpg)
+! [](https://github.com/saitamar10/DisableWP/blob/main/Disable-updates-1.png)
 
 ## Preview
 
