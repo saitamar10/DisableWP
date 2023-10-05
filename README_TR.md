@@ -39,6 +39,4 @@ Eklenti Güncellemelerini Devre Dışı Bırak, Tema Güncellemelerini Devre Dı
 
 * WordPress admin sol gezinti çubuğundaki `Site Sağlığı` altında `Araçlar`, etkisini görmek için sayfaya girmek için tıklayın.
 
-<p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/hekailiu-2512/Disable-updates/Disable-updates-2.png" alt="Arka plan güncellemelerini devre dışı bırak" />
-</p>
+
