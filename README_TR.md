@@ -2,7 +2,7 @@
 <p align="center">
 
 [English](./README.md) / Türkçe
-![](https://cdn.jsdelivr.net/gh/hekailiu-2512/Disable-updates/Disable-updates-2.png)
+![]
 
 # Arka Uç Güncellemelerini Devre Dışı Bırak
 
@@ -33,7 +33,7 @@ GitHub indirme:
 
 Eklenti Güncellemelerini Devre Dışı Bırak, Tema Güncellemelerini Devre Dışı Bırak, Çekirdek Güncellemelerini Devre Dışı Bırak, Güncelleme Bildirimlerini Gizle, Yönetici Bildirimlerini Devre Dışı Bırak.
 
-! [](https://cdn.jsdelivr.net/gh/hekailiu-2512/Disable-updates/Disable-updates-1.jpg)
+! []
 
 ## Önizleme
 
