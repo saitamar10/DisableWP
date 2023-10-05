@@ -68,7 +68,7 @@ WordPress plugin for disabling plugin updates, disabling theme updates, disablin
   
  Download the source code from GitHub, upload and install it via the WordPress backend, or directly upload the source code to the WordPress plugin directory `wp-content/plugins` and enable it in the backend.
 
-GitHub download: (https://github.com/SaitamaR10/DisableWP/ releases/tag/V1.0) 
+GitHub download: (https://github.com/SaitamaR10/DisableWP/) 
 
 ## Modify the configuration
     
